@@ -1,7 +1,5 @@
 //Programmer: Marcel Rodriguez
 //Date: 6/29/2023
-//Class: CS &145
-//Lab 4: Guessing Game
 //Purpose: The user plays a guessing game. Program thinks of an integer and allows the user to make guesses until the guess is right. Tells if the answer is higher or lower after a guess. Asks to play the game again.
 
 import java.util.Scanner;
